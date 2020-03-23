@@ -1,0 +1,17 @@
+{
+  "stopwatch": "Stopwatch.",
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "lockScreen": "Lock screen"
+  },
+  "tabata": {
+    "title": "Tabata",
+    "titleList": "Tabatas"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "stopwatch": "Секундомер",
+  "common": {
+    "ok": "OK.",
+    "cancel": "Отмена",
+    "back": "Назад"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык",
+    "lockScreen": "Блокировать экран"
+  },
+  "tabata": {
+    "title": "Tabata",
+    "titleList": "Tabatas"
+  }
+}
